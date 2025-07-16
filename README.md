@@ -3,6 +3,18 @@
 
 ---
 
+## 技术架构说明
+
+本项目采用 **Vue 3 + TypeScript + <script setup> 组合式 API** 的现代开发范式，结合企业级 UI 组件库（如 Element Plus/Ant Design Vue）、Pinia 状态管理、Vite 构建工具等，打造高效、可维护、类型安全的前端架构。
+
+### 主要特性
+- 使用 `<script setup lang="ts">` 语法糖，代码更简洁，类型推断更强
+- 逻辑聚合，易于维护和复用
+- 结合 Pinia、Vue Router、现代 UI 组件库，适合中大型企业级项目
+- 支持响应式主题、国际化、全局配置等现代需求
+
+---
+
 ## Vue 前端技术选型清单
 
 ### 1. 框架与基础库
